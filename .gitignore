@@ -1,0 +1,23 @@
+# 文件夹
+.idea/
+__pycache__/
+diff_venv/
+
+dup_imgs/
+small_imgs/
+test_imgs/
+
+
+# 一些关键文件！！
+*.json
+*.csv
+.env
+
+*.pyc
+*.pyw
+*.bat
+
+start_repo.py
+gg.bat
+
+

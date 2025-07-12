@@ -1,0 +1,16 @@
+Flask
+Pillow
+Werkzeug
+python-magic
+chardet
+Flask-SQLAlchemy
+SQLAlchemy
+python-dotenv
+pillow-avif-plugin
+opencv-python
+numpy
+pandas
+tqdm
+imagehash
+python-dotenv
+requests
