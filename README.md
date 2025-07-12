@@ -25,10 +25,6 @@
 
 3.  **运行应用**:
     ```bash
-    flask run
-    ```
-    或者
-    ```bash
     python app.py
     ```
 
